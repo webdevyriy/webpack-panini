@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+{{> head}}
+
+<body>
+
+
+    <div class="wrapper">
+        
+        <header class="header {{#ifpage 'pages'}} active {{/ifpage}}">
+            {{> navigation}}
+
+        </header>
+
+        <main role="main" class="content">
+            {{> body}}
+        </main>
+
+        {{> footer}}
+
+    </div>
+    {{> script}}
+</body>
+
+</html>

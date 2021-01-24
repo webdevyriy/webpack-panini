@@ -1,0 +1,81 @@
+{
+  "list": [
+    {
+      "links": [
+        {
+          "link": "Die Kaiserbäder"
+        },
+        {
+          "link": "Planen & Reisen"
+        },
+        {
+          "link": "Entdecken & Erleben"
+        },
+        {
+          "link": "Erholen & Geniessen"
+        },
+        {
+          "link": "Blog"
+        }
+      ]
+    },
+    {
+      "language": [
+        {
+          "lang": "DE"
+        },
+        {
+          "lang": "ENG"
+        },
+        {
+          "lang": "PL"
+        }
+      ]
+    },
+    {
+      "sublist": [
+        {
+          "link": "Kurzurlaub buchen"
+        },
+        {
+          "link": "Kurzurlaub buchen"
+        },
+        {
+          "link": "Kurzurlaub buchen"
+        }
+      ]
+    },
+    {
+      "fag-list": [
+        {
+          "link": "FAQ"
+        },
+        {
+          "link": "Impressum"
+        },
+        {
+          "link": "AGB"
+        },
+        {
+          "link": "Datenschutz"
+        }
+      ]
+    },
+    {
+      "networks": [
+        {
+          "link": "fb"
+        },
+        {
+          "link": "tw"
+        },
+        {
+          "link": "Inst"
+        },
+        {
+          "link": "youtube"
+        }
+      ]
+    }
+  ]
+}
